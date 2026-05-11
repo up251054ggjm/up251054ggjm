@@ -1,9 +1,9 @@
 <body style="font-family: Arial, sans-serif; background-color: #f4f6f9; margin: 40px; color: #333;">
   <h1 align="center" style="color: blue;"> Información General</h1>
-#Soy estudiante de 2 cuatrimestre de la universidad politécnica de Aguascalientes 
+Soy estudiante de 2 cuatrimestre de la universidad politécnica de Aguascalientes 
 
 
-#en la ingeniería en **Tecnologías de la Información e Innovación Digital (TIID)**
+en la ingeniería en **Tecnologías de la Información e Innovación Digital (TIID)**
 
 
 [Ir Pagina de la Universidad](https://upa.edu.mx/)
