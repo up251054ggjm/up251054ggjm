@@ -1,4 +1,4 @@
-#<h1 style="color: blue;">Informacion General</h1>
+<h1 align="center" style="color: blue;">📘 Información General</h1>
 #Soy estudiante de 2 cuatrimestre de la universidad politécnica de Aguascalientes 
 
 
