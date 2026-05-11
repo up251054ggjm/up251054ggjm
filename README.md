@@ -1,3 +1,4 @@
+<h1>Informacion General</h1>
 #Soy estudiante de 2 cuatrimestre de la universidad politécnica de Aguascalientes 
 
 
