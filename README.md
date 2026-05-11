@@ -7,4 +7,4 @@
 [Ir Pagina de la Universidad](https://upa.edu.mx/)
 
 
-![Tecnologías de la Información](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop)
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop" width="350">
